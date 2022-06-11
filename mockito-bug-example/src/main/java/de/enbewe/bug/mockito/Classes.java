@@ -10,7 +10,3 @@ class SubClass extends SuperClass {
 		return true;
 	}
 }
-
-class OtherClass {
-
-}
